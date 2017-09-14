@@ -1,8 +1,8 @@
-# WordPressure-iOS-
+# WordPressure
 
-![WordPressure](/icons/Icon-60@2x.png?raw=true "WordPressure")
+![WordPressure](/Images.xcassets/AppIcon.appiconset/Icon-60@2x.png?raw=true "WordPressure")
 
-***Word game that makes you feel pressured***
+***The iOS Word game that makes you feel pressured***
 
 AppStore Link: https://itunes.apple.com/us/app/wordpressure/id1180443021?mt=8
 
@@ -20,5 +20,5 @@ You will be provided with a word of seven letters or more which we'll call the "
 
 screenshots:
 
-![WordPressure](/screenshots/IMG_3472.JPEG?raw=true "WordPressure")
-![WordPressure](/screenshots/IMG_3474.JPEG?raw=true "WordPressure")
+![WordPressure](/screenshots/IMG_3472.JPG?raw=true "WordPressure")
+![WordPressure](/screenshots/IMG_3474.JPG?raw=true "WordPressure")
