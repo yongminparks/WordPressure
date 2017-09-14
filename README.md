@@ -20,5 +20,5 @@ You will be provided with a word of seven letters or more which we'll call the "
 
 screenshots:
 
-![WordPressure](/screenshots/IMG_3472.PNG?raw=true "WordPressure")
-![WordPressure](/screenshots/IMG_3474.PNG?raw=true "WordPressure")
+![WordPressure](/screenshots/IMG_3472.PNG =250x?raw=true "WordPressure")
+![WordPressure](/screenshots/IMG_3474.PNG =250x?raw=true "WordPressure")
